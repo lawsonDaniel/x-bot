@@ -1,0 +1,19 @@
+{
+  "name": "dovabot",
+  "version": "1.0.0",
+  "description": "An automated Twitter advertisement bot that promotes Dova - an AI-powered learning application where users can learn anything using artificial intelligence. The bot posts engaging, unique advertisements every 2 hours, acting as a professional digital marketer for the platform.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "node-cron": "^4.1.1",
+    "openai": "^5.7.0",
+    "puppeteer": "^24.10.2",
+    "twitter-api-v2": "^1.23.2"
+  }
+}
