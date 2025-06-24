@@ -4,7 +4,8 @@
   "description": "An automated Twitter advertisement bot that promotes Dova - an AI-powered learning application where users can learn anything using artificial intelligence. The bot posts engaging, unique advertisements every 2 hours, acting as a professional digital marketer for the platform.",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js"
+    "start": "node index.js"
+
   },
   "keywords": [],
   "author": "",
